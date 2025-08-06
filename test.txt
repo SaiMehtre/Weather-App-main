@@ -1,10 +1,1 @@
- Volume in drive C is OS
- Volume Serial Number is A88A-7D9B
-
- Directory of C:\Users\sai\OneDrive\Desktop\Weather-App-main
-
-06-08-2025  23:27    <DIR>          .
-06-08-2025  23:25    <DIR>          ..
-06-08-2025  23:27                 0 test.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  30,811,795,456 bytes free
+hello there, how are you
